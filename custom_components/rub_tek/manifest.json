@@ -1,0 +1,14 @@
+{
+    "domain": "rub_tek",
+    "name": "Rub_tek",
+    "codeowners": [
+        "@yexxel"
+    ],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "",
+    "iot_class": "local_polling",
+    "issue_tracker": "",
+    "requirements": [],
+    "version": "0.0.1"
+}
